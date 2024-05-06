@@ -1,4 +1,4 @@
-package cn.edu.jnu.x2021102259;
+package cn.edu.jnu.cnedujnux2021102259;
 
 import org.junit.Test;
 
